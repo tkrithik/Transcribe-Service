@@ -10,8 +10,8 @@ import botocore
 
 app = Flask(__name__)
 
-S3_BUCKET_NAME = "krithik-test"
-FILE_PATH = "/Users/krithiktamilvanan/Downloads/"
+S3_BUCKET_NAME = "<your_bucket_name>"
+FILE_PATH = "<your_file_path>"
 AWS_REGION_NAME = "us-west-2"
 
 @app.route('/transcripts', methods=['POST'])
