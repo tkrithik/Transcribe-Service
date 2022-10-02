@@ -1,4 +1,4 @@
-# cohackathon-2021
+# Cohackathon 2021
 
 **Inspiration:**
 My inspiration for this project was to work with a cloud service and implement it in a website. I was really excited about using Python, HTML, Javascript, and CSS to use cloud service in part of my project.
